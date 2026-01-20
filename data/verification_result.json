@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-01-19T21:10:21.078447Z",
+  "input_text": "Met Office has issued an Amber warning for rain for much of south Wales on Monday, with persistent heavy rain and flooding risk.",
+  "verdict": "UNVERIFIABLE",
+  "credibility_score": 22,
+  "risk_score": 0,
+  "query_used": "office issued amber warning rain much south wales Monday",
+  "evidence": [
+    {
+      "title": "Amber warning issued with heavy rain on the way - Met Office",
+      "link": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/amber-warning-issued-with-heavy-rain-on-the-way",
+      "snippet": "The Met Office has issued an Amber warning for rain for much of south Wales on Monday, with a wet start to the week for many.",
+      "source": "Serper",
+      "domain": "metoffice.gov.uk",
+      "published": null,
+      "published_dt": null,
+      "score": 2,
+      "age_days": null,
+      "recency_weight": 0.35,
+      "location_match": true,
+      "location_score": 1.0
+    },
+    {
+      "title": "Amber weather warning issued ⚠️⚠️ Rain for southwest Wales ...",
+      "link": "https://www.facebook.com/metoffice/posts/%EF%B8%8F%EF%B8%8F-amber-weather-warning-issued-%EF%B8%8F%EF%B8%8Frain-for-southwest-walesmonday-0300-2100latest/1296016435893751/",
+      "snippet": "Parts of south and south west wales have just been put into an amber warning of rain. From 3pm today until 6am tomorrow. 🌧️",
+      "source": "Serper",
+      "domain": "facebook.com",
+      "published": null,
+      "published_dt": null,
+      "score": 4,
+      "age_days": null,
+      "recency_weight": 0.35,
+      "location_match": true,
+      "location_score": 1.0
+    },
+    {
+      "title": "Met Office amber warning in force for heavy rain and flooding - BBC",
+      "link": "https://www.bbc.com/weather/articles/crrkdylz9rxo",
+      "snippet": "A more severe amber Met Office warning for south Wales came to an end at 21:00 GMT. Between 20 and 40mm (0.8 and 1.6in) of rain is expected to ...",
+      "source": "Serper",
+      "domain": "bbc.com",
+      "published": null,
+      "published_dt": null,
+      "score": 10,
+      "age_days": null,
+      "recency_weight": 0.35,
+      "location_match": false,
+      "location_score": 0.0
+    },
+    {
+      "title": "The Met Office has issued an amber rain warning for parts of South ...",
+      "link": "https://www.instagram.com/p/DSPrzvhibH2/",
+      "snippet": "Amber Warning (3:00am – 9:00pm): Persistent heavy rain across South Wales on Monday is likely to cause flooding and significant travel ...",
+      "source": "Serper",
+      "domain": "instagram.com",
+      "published": null,
+      "published_dt": null,
+      "score": 4,
+      "age_days": null,
+      "recency_weight": 0.35,
+      "location_match": true,
+      "location_score": 1.0
+    },
+    {
+      "title": "Amber 'danger to life' Met Office weather warning comes into effect ...",
+      "link": "https://uk.news.yahoo.com/amber-danger-life-met-office-035700878.html",
+      "snippet": "Heavy rain is expected across parts of south and southwest Wales on Monday, with the Met Office stating that 50-80mm of rainfall is expected ...",
+      "source": "Serper",
+      "domain": "uk.news.yahoo.com",
+      "published": null,
+      "published_dt": null,
+      "score": 4,
+      "age_days": null,
+      "recency_weight": 0.35,
+      "location_match": true,
+      "location_score": 1.0
+    }
+  ]
+}

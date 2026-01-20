@@ -1,0 +1,16 @@
+# secrets
+serper_key.txt
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# streamlit
+.streamlit/
+
+# logs/results
+results/
+*.log

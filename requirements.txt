@@ -1,0 +1,6 @@
+streamlit
+requests
+feedparser
+reportlab
+python-dateutil
+tldextract
